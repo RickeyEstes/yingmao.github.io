@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+title: Research
+permalink: /research/
+description: Research Projects and Publications.
+nav: false
 ---
 
 <div class="projects grid">

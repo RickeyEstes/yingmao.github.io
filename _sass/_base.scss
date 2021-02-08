@@ -158,10 +158,13 @@ a, table.table a {
 
 .news table td {
   font-size: 1rem;
+  vertical-align: middle;
   color: var(--global-text-color);
 }
 
 .news table th {
+  width: 15%;
+  vertical-align: middle;
   color: var(--global-text-color);
 }
 
