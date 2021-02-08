@@ -431,3 +431,18 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+
+
+// bibbase
+
+
+.bibbase_style {
+  border-style: none;
+  border: none;
+  span {
+    padding-top: 0%;
+    padding-bottom: 0%;
+    background-clip: content-box, padding-box;
+  }
+}

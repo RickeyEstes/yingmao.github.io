@@ -22,7 +22,9 @@ Dr. Mao's investigate the following research problems.
 
 ## Publications
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fyingmao%2Fwebsite%2Fmaster%2Fpapers.bib&jsonp=1&theme=default&owner=Mao,Y"></script>
+<div class="bibbase_style">
+  <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fyingmao%2Fwebsite%2Fmaster%2Fpapers.bib&jsonp=1"></script>
+</div>
 
 
 
