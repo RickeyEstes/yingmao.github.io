@@ -9,8 +9,8 @@ rank: 4
 
 ## Current Semester (Spring 2021)
 
-- CISC 5950 Big Data Programming
-- CISC3500: Database System
+- [CISC 5950 Big Data Programming](5950.html)
+- CISC3500: Database Systems
 
 
 ----
