@@ -439,10 +439,12 @@ html.transition *:after {
 
 .bibbase_style {
   border-style: none;
-  border: none;
   span {
     padding-top: 0%;
     padding-bottom: 0%;
-    background-clip: content-box, padding-box;
+  }
+  span.note {
+  //  padding: 0% 0% 0% 0%;
+    color: white;
   }
 }
