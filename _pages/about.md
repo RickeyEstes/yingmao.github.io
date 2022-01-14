@@ -41,5 +41,8 @@ Previously, Dr. Mao was an Assistant Professor at The College of New Jersey.
 ---
 
 <div align="justify">
-His research interests mainly focus on the fields of cloud computing, virtualization, resource management, and data-intensive platforms.
+<font size="+2" color="red"><strong>[PhD opportunities]:</strong></font>
+Our team has Ph.D. openings with full support. We are looking for self-motivated students with solid background in programming and system design. You can find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science">link text</a>.
 </div>
+
+---
