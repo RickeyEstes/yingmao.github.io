@@ -42,7 +42,7 @@ Previously, Dr. Mao was an Assistant Professor at The College of New Jersey.
 
 <div align="justify">
 <font color="FF3C33"><strong>[PhD opportunities]:</strong></font>
-Our team has Ph.D. openings with full support. We are looking for self-motivated students with solid background in programming and system design. You can find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science">link</a>.
+Our team has Ph.D. openings with full support. We are looking for self-motivated students with a solid background in programming and system design. You can find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science">link</a>. You are encouraged to contact me if interested.
 </div>
 
 ---
