@@ -23,7 +23,7 @@ Dr. Ying Mao
 is currently a tenure-track Assistant Professor in the
 <a href="https://www.fordham.edu/info/20344/computer_and_information_science" style="color:#FC2146"> Department of Computer and
 Information Science </a>
-at <a href="https://www.fordham.edu/" style="color:#FC2146">Fordham University</a> in New York.
+at <a href="https://www.fordham.edu/" style="color:#FC2146">Fordham University</a> in New York City.
 In addition, he is a Fordham-IBM Research Fellow.
 <p></p>
 He received his Ph.D. in Computer Science from the
@@ -43,7 +43,7 @@ Previously, Dr. Mao was an Assistant Professor at The College of New Jersey.
 <div align="justify">
 <img src="/assets/img/new-icon.png" alt="New Icon" style="width:50px;height:27px;">
 <strong>[Opportunities]:</strong>
-Our team has Ph.D. and M.S. openings with full financial support. We are looking for self-motivated students with a solid background in programming and system design. You can find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science">link</a>. You are encouraged to contact me if interested.
+<a style="color:#FC2146"> Our team has multiple Ph.D. and M.S. openings with full financial support. </a> We are looking for self-motivated students with a solid background in programming and system design. You can find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science">link</a>. You are encouraged to contact me if interested.
 </div>
 
 ---
