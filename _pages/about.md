@@ -37,3 +37,9 @@ Previously, Dr. Mao was an Assistant Professor at The College of New Jersey.
  <p></p>
  His research interests mainly focus on the fields of cloud computing, virtualization, resource management, and data-intensive platforms.
 </div>
+
+---
+
+<div align="justify">
+His research interests mainly focus on the fields of cloud computing, virtualization, resource management, and data-intensive platforms.
+</div>
