@@ -35,14 +35,15 @@ as well as the Bachelor of Science in Telecommunication Engineering
 from the Commanding Communication Academy in China.
 Previously, Dr. Mao was an Assistant Professor at The College of New Jersey.
  <p></p>
- His research interests mainly focus on the fields of cloud computing, virtualization, resource management, and data-intensive platforms.
+ His research interests mainly focus on the fields of data-intensive systems, virtualization, resource management, and quantum-based systems.
 </div>
 
 ---
 
 <div align="justify">
-<p style="color:red"><strong>[PhD opportunities]:</strong></p>
-Our team has Ph.D. openings with full support. We are looking for self-motivated students with a solid background in programming and system design. You can find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science">link</a>. You are encouraged to contact me if interested.
+<img src="/assets/img/new-icon.png" alt="New Icon" style="width:50px;height:27px;">
+<strong>[Opportunities]:</strong>
+Our team has Ph.D. and M.S. openings with full financial support. We are looking for self-motivated students with a solid background in programming and system design. You can find our Ph.D. in Computer Science program from this <a href="https://www.fordham.edu/homepage/7574/phd_in_computer_science">link</a>. You are encouraged to contact me if interested.
 </div>
 
 ---
