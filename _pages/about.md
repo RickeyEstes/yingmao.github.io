@@ -30,10 +30,8 @@ He received his Ph.D. in Computer Science from the
 <a href="https://www.umb.edu" style="color:#216DFC">University of Massachusetts Boston </a>
 advised by <a href="https://www.cs.umb.edu/~shengbo/" style="color:#216DFC"> Dr. Bo Sheng </a>.
 Before that, he obtained the Master of Science in <a href="http://engineering.buffalo.edu/ee.html" style="color:#216DFC"> Electrical Engineering </a> from the
-<a href="http://www.buffalo.edu/" style="color:#216DFC"> The State University of New York at Buffalo </a>
-as well as the Bachelor of Science in Telecommunication Engineering
-from the Commanding Communication Academy in China.
-Previously, Dr. Mao was an Assistant Professor at The College of New Jersey.
+<a href="http://www.buffalo.edu/" style="color:#216DFC"> The State University of New York at Buffalo </a>.
+
  <p></p>
  His research interests mainly focus on the fields of data-intensive systems, virtualization, resource management, and quantum-based systems.
 </div>
